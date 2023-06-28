@@ -39,7 +39,7 @@
   }
   
   .box {
-    background-color: #eee1d5;
+    background-color: #e3cab3;
     border-radius: 5px;
     box-shadow: 0 1px 3px rgb(0 0 0 / 0.2);
     padding: 15px;
@@ -48,7 +48,7 @@
   }
   
   .box-title {
-    color: #885a2d;
+    color: #65411d;
     font-weight: normal;
     font-size: 16px;
   }
@@ -72,7 +72,7 @@
   }
   
   .item {
-    border-bottom: 2px solid #DDB892;
+    border-bottom: 2px solid #d3b08c;
     display: grid;
   
     padding: 10px 0;
